@@ -125,16 +125,6 @@ pylab.plot(xlist,ylist,'o',xlist,ylist)
 pylab.show()
 
 
-"""F1 = rectangular(f, a, b, N)
-F2 = trapezoidal(f, a, b, N)
-F3 = sipson(f, a, b, N)
-print(abs(F - F1))
-print('\n')
-print(F1)
-print('\n\n\n')
-print(abs(F - F2))
-print('\n')
-print(F2)
-"""
+
 
 
